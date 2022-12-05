@@ -88,7 +88,8 @@ body {
 
 div,
 section,
-article {
+article,
+main {
   animation: rendered 1s ease;
   animation-iteration-count: 1;
 }
